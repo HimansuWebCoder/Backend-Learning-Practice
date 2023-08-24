@@ -36,3 +36,16 @@ http module
 ("fs").readFile
 
 build a server
+resp.setHeader
+resp.end
+headers, url, method
+"Content-Type", "text/html"
+"Content-Type", "application/json"
+res.end(JSON.stringify(obj))
+res.headers
+res.url
+res.method
+
+express install- npm install express
+
+res.send
