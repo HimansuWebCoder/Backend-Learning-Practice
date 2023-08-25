@@ -49,3 +49,15 @@ res.method
 express install- npm install express
 
 res.send
+
+middleware, app.use-keep going down all get/post/put/delete passes the next function (generate express)
+
+postman- body-parser
+install- npm install body-parser
+
+RESTful-API
+/profile
+
+Node-File-System-Module
+readFile- asynchronous function
+readFileSync- synchronous
