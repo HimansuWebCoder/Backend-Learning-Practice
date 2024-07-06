@@ -1,4 +1,5 @@
-node
+## node
+# Backend Learning (JS)
 1 + 1
 "Himansu"
 console.log("Hello Node.js")
@@ -11,7 +12,7 @@ document
 process.exit()
 global.setTimeout
 
-//chrome dev tools check
+## chrome dev tools check
 globalThis
 globalThis === window
 globalThis
@@ -24,7 +25,7 @@ import - SyntaxError: Cannot use import statement outside a module
 
 convert script.js, script2.js to script.mjs, script2.mjs
 
-npm init -y , packaje.json install
+## npm init -y , packaje.json install
 type-module
 "type": "module"
 
@@ -35,7 +36,7 @@ fs module
 http module
 ("fs").readFile
 
-build a server
+## build a server
 resp.setHeader
 resp.end
 headers, url, method
@@ -46,7 +47,7 @@ res.headers
 res.url
 res.method
 
-express install- npm install express
+## express install- npm install express
 
 res.send
 
@@ -55,7 +56,7 @@ middleware, app.use-keep going down all get/post/put/delete passes the next func
 postman- body-parser
 install- npm install body-parser
 
-RESTful-API
+## RESTful-API
 /profile
 
 Node-File-System-Module
