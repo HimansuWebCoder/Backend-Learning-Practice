@@ -1,6 +1,6 @@
 ## node
 # Backend Learning (JS)
-1 + 1
+``` 1 + 1
 "Himansu"
 console.log("Hello Node.js")
 Boolean(2)
@@ -11,12 +11,14 @@ global.fetch
 document
 process.exit()
 global.setTimeout
+```
 
 ## chrome dev tools check
-globalThis
+``` globalThis
 globalThis === window
 globalThis
 window // in node show not defined
+```
 // instead node uses
 global
 module 
