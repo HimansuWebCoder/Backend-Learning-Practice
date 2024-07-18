@@ -27,7 +27,7 @@ import - SyntaxError: Cannot use import statement outside a module
 
 convert script.js, script2.js to script.mjs, script2.mjs
 
-## npm init -y , packaje.json install
+## npm init -y , package.json install
 type-module
 "type": "module"
 
